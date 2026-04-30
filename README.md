@@ -2,7 +2,7 @@
 
 **`Ingeniero de Sistemas | FullStack Developer | Cybersecurity Specialist`**
 
-¡Hola! Soy Anderson. Actualmente me encuentro en el **6to semestre** de **INGENIERÍA DE SISTEMAS**. Mi camino en la tecnología está impulsado por la curiosidad y el deseo de aprender cómo proteger el mundo digital. 
+¡Hola! Soy Anderson. Actualmente me encuentro en el **6to semestre** de **INGENIERÍA DE SISTEMAS**. Mi camino en la tecnología está impulsado por la curiosidad y el deseo de aprender cómo proteger el mundo digital.
 
 Me considero un estudiante constante, enfocado en adquirir conocimientos sólidos sobre el análisis de vulnerabilidades y el desarrollo de software seguro. Creo firmemente que la mejor forma de construir defensas robustas es entendiendo cómo funcionan los sistemas desde adentro, combinando la teoría de mis estudios con la práctica en hacking ético.
 
@@ -28,65 +28,85 @@ Me considero un estudiante constante, enfocado en adquirir conocimientos sólido
 
 ### 💻 FullStack Mastery | 🔐 Cybersecurity Arsenal
 
-<!-- Frontend -->
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" alt="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" alt="CSS3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" alt="React"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35" height="35" alt="Angular"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" height="35" alt="Vue.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35" height="35" alt="Sass"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35" alt="Bootstrap"/>
-</div>
-
-<!-- Backend -->
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" height="35" alt="Django"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="35" alt="Express"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" height="35" alt="PHP"/>
-</div>
-
-<!-- Database & Tools -->
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35" alt="MySQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35" alt="PostgreSQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35" alt="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="35" height="35" alt="AWS"/>
-</div>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonC-Engineer&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonC-Engineer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Lenguajes"/>
-</p>
-
----
-
-### 🚀 Proyectos Destacados
-
-- **🛡️ CyberVenezuela Alert**: Plataforma informativa que monitorea y reporta amenazas de ciberseguridad específicas en Venezuela, con análisis de vulnerabilidades en sistemas locales y recomendaciones de protección para empresas y usuarios.
-- **⚙️ ProcessFlow Manager**: Aplicación web para optimizar y automatizar procesos empresariales, diseñada con arquitectura microservicios, autenticación JWT y dashboards en tiempo real para visualizar el flujo de trabajo.
-- **🔐 SecureVault**: Sistema de gestión de contraseñas con cifrado de extremo a extremo, desarrollado con React y Node.js, que implementa protocolos de seguridad avanzados para proteger datos sensibles.
-- **🌐 DataBridge API**: API RESTful que integra múltiples fuentes de datos, con autenticación OAuth2, documentación automática con Swagger y pruebas de seguridad OWASP integradas.
-
----
-
-### 📢 ¡Conecta conmigo!
-
+#### 🎨 Frontend Development
 <p align="left">
-    <a href="https://lnk.bio/gocho_ac" target="_blank">
-        <img src="https://img.shields.io/badge/Enlaces_Todos-FF5722?style=for-the-badge&logo=link&logoColor=white" alt="Todos mis enlaces"/>
-    </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
 </p>
 
-<div align="center">
-  <p><i>"En el mundo digital de hoy, no basta con construir, hay que proteger. El código seguro no es una opción, es una necesidad."</i></p>
-</div>
+#### ⚙️ Backend Development
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+</p>
+
+#### 🔧 Programming Languages
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+</p>
+
+#### 🗄️ Database & DevOps
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height
