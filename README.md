@@ -2,12 +2,11 @@
 
 **`Ingeniero de Sistemas | FullStack Developer | Cybersecurity Specialist`**
 
-¡Hola! Soy Anderson. Actualmente me encuentro en el **6to semestre** INGENIERIA DE SISTEMA  . Mi camino en la tecnología está impulsado por la curiosidad y el deseo de aprender cómo proteger el mundo digital. 
+¡Hola! Soy Anderson. Actualmente me encuentro en el **6to semestre** de **INGENIERÍA DE SISTEMAS**. Mi camino en la tecnología está impulsado por la curiosidad y el deseo de aprender cómo proteger el mundo digital. 
 
-Me considero un estudiante constante, enfocado en adquirir conocimientos sólidos sobre el análisis de vulnerabilidades y el desarrollo de software seguro. Creo firmemente que la mejor forma de construir defensas robustas es entendiendo cómo funcionan los sistemas desde adentro, combinando la teoría de mis estudios con la práctica en hacking ético..
+Me considero un estudiante constante, enfocado en adquirir conocimientos sólidos sobre el análisis de vulnerabilidades y el desarrollo de software seguro. Creo firmemente que la mejor forma de construir defensas robustas es entendiendo cómo funcionan los sistemas desde adentro, combinando la teoría de mis estudios con la práctica en hacking ético.
 
 <p align="left">
-    <!-- Badges de Redes Sociales -->
     <a href="https://github.com/AndersonC-Engineer">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
