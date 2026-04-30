@@ -29,21 +29,28 @@ Soy Anderson Contreras, estudiante de Ingeniería de Sistemas con una profunda p
 ### 🔐 Habilidades Técnicas & Herramientas
 
 <div align="left">
+    <!-- Lenguajes y Backend -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" alt="Linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/linux/kali-original.svg" width="35" alt="Kali Linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" alt="C"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="React"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" alt="PHP"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" alt="Node.js"/>
+    <!-- Frontend -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="React"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS3"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" alt="Bootstrap"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" alt="Tailwind"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35" alt="SASS"/>
+    <!-- Bases de Datos y Herramientas -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" alt="PostgreSQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" alt="MySQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" alt="Linux"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/linux/kali-original.svg" width="35" alt="Kali Linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" alt="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" alt="Docker"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" alt="Bash"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS3"/>
 </div>
 
 ---
@@ -61,7 +68,7 @@ Soy Anderson Contreras, estudiante de Ingeniería de Sistemas con una profunda p
 
 - **🛡️ Scanner de Vulnerabilidades**: Herramienta en Python para análisis básico de puertos y servicios.
 - **🔒 Cifrado de Archivos**: Implementación de algoritmos AES y RSA para protección de datos.
-- **🌐 Análisis de Redes**: Scripts de monitoreo de tráfico y detección de anomalías.
+- **🏢 Gestión de Gas GLP**: Sistema automatizado para optimización de procesos en planta de llenado.
 
 ---
 
