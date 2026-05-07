@@ -56,14 +56,19 @@ Soy un apasionado de la ingeniería y la seguridad informática. Mi mayor fortal
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndersonC-Engineer&theme=radical&no-bg=true&column=7&margin-w=15&title_color=00FF41&icon_color=00FF41" alt="Trophies" />
+</p>
+
 ### 📊 System Analysis & Metrics
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonC-Engineer&theme=neon" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonC-Engineer&layout=compact&theme=neon&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndersonC-Engineer&theme=react-dark&area=true&color=00FF41&bg_color=0D1117&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndersonC-Engineer&theme=react-dark&area=true&color=00FF41&bg_color=0D1117&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonC-Engineer&layout=compact&theme=neon&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonC-Engineer&theme=neon" />
 </p>
 
 ---
