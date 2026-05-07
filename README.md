@@ -56,19 +56,14 @@ Soy un apasionado de la ingeniería y la seguridad informática. Mi mayor fortal
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndersonC-Engineer&theme=radical&no-bg=true&column=7&margin-w=15&title_color=00FF41&icon_color=00FF41" alt="Trophies" />
-</p>
-
 ### 📊 System Analytics & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonC-Engineer&show_icons=true&theme=radical&rank_icon=github&border_radius=10&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=00000000" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonC-Engineer&layout=compact&theme=radical&border_radius=10&title_color=00FF41&text_color=ffffff&bg_color=00000000" height="180" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonC-Engineer&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonC-Engineer&layout=compact&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonC-Engineer&theme=radical&fire=00FF41&sideNums=00FF41&sideLabels=ffffff&dates=ffffff&bg_color=00000000" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonC-Engineer&theme=dark&fire=00FF41&sideNums=00FF41&sideLabels=ffffff&dates=ffffff&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
