@@ -1,92 +1,100 @@
-<div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
-  <p><i>"La seguridad no es un producto, es un proceso."</i></p>
-</div><h1 align="center"><b>Anderson Contreras | Cybersecurity Specialist</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Systems+Engineer+Student;Cybersecurity+Enthusiast;Ethical+Hacker;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header" />
 </p>
 
-<img align="right" width="350px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZueXh6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" />
+<h1 align="center"><b>Anderson Contreras | Systems Engineer & Cybersecurity Specialist</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### 👤 Sobre mí
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Future+Systems+Engineer;Ethical+Hacker+in+Progress;Full+Stack+Developer;Network+Security+Analysis" alt="Typing SVG" />
+</p>
 
-Soy **Anderson Contreras**, estudiante de 6to semestre de **Ingeniería de Sistemas**. Mi camino en la tecnología está impulsado por la curiosidad de entender cómo funcionan las cosas y, sobre todo, cómo protegerlas. Me especializo en el análisis de vulnerabilidades y el desarrollo de software con un enfoque prioritario en la seguridad.
+<img align="right" width="340px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZueXh6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" />
 
-- 🛡️ **Foco Actual:** Hacking ético y robustecimiento de infraestructuras digitales.
-- 🎓 **Educación:** Universidad Nacional Experimental Politécnica de la Fuerza Armada.
-- 🎙️ **Streaming:** Creador de contenido en **Twitch** (gocho_ac) sobre tech y gaming.
-- 💬 **Interés:** Colaborar en proyectos de código abierto orientados a seguridad.
+### 👤 [Terminal_Bio]
+**`Ingeniería de Sistemas | 6to Semestre`** **`Enfoque: Ciberseguridad & Desarrollo Seguro`**
+
+Soy un apasionado de la ingeniería y la seguridad informática. Mi mayor fortaleza reside en diseñar y construir sistemas eficientes y escalables, entendiendo su lógica interna para protegerlos ante cualquier amenaza. Combino la rigurosidad académica con tácticas de hacking ético para garantizar soluciones robustas.
+
+- ⚙️ **Fortaleza:** Arquitectura de Sistemas y Lógica de Programación.
+- 🎯 **Intereses:** Colaborar en proyectos integrales de desarrollo y aplicar auditorías de seguridad (Pentesting).
+- 🎙️ **Streaming:** Creador de contenido en **Twitch** como **gocho_ac**.
+- 📍 **Status:** Localizado en San Cristóbal, Táchira.
 
 ---
 
-### 🚀 Stack Tecnológico
+### 🛠️ Tech Stack & Arsenal
 
-#### 🔐 Seguridad & Sistemas
+#### 💀 Core Engineering & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" title="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" title="Bash" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41" />
 </p>
 
-#### 💻 Desarrollo Backend & Frontend
+#### ⚡ Frontend & Styling
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+</p>
+
+#### 🛡️ Cybersecurity & Infra
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
 </p>
 
 #### 🗄️ Bases de Datos
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
 </p>
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 System Analytics & Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndersonC-Engineer&show_icons=true&theme=radical&rank_icon=github&border_radius=10&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonC-Engineer&layout=compact&theme=radical&border_radius=10&title_color=00FF41&text_color=ffffff" height="170" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonC-Engineer&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonC-Engineer&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonC-Engineer&theme=radical&fire=00FF41&sideNums=00FF41&sideLabels=ffffff&dates=ffffff" />
 </p>
 
 ---
 
-### 📁 Proyectos Destacados
-
-- **🛡️ Vulnerability Scanner:** Script avanzado en Python para auditoría de redes y servicios.
-- **🔒 AES & RSA Encryption:** Sistema de cifrado híbrido para transferencia segura de archivos.
-- **🏢 Gas Táchira System:** Propuesta técnica de gestión automatizada para planta de llenado de GLP.
-
----
-
-### 📢 Conecta Conmigo
-
+### 📢 Red de Contacto
 <p align="left">
-  <a href="https://www.linkedin.com/in/anderson-contreras-0b366a249/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/andersoncontrerasss">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" />
+  </a>
+  <a href="https://www.tiktok.com/@gocho_ac">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=00FF41" />
   </a>
   <a href="https://www.twitch.tv/gocho_ac">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/andersoncontrerasss">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=00FF41" />
   </a>
   <a href="https://lnk.bio/gocho_ac">
-    <img src="https://img.shields.io/badge/Todos_los_Enlaces-FF5722?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/All_My_Links-000000?style=for-the-badge&logo=linktree&logoColor=00FF41" />
+  </a>
+  <a href="https://www.linkedin.com/in/anderson-contreras-0b366a249/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
   </a>
 </p>
 
 <div align="center">
-  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
   <p><i>"La seguridad no es un producto, es un proceso."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=AndersonC-Engineer&color=00FF41&style=flat-square&label=TERMINAL+ACCESSES" />
 </div>
