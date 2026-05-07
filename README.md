@@ -13,7 +13,7 @@
 ### 👤 [Terminal_Bio]
 **`Ingeniería de Sistemas | 6to Semestre`** **`Enfoque: Ciberseguridad & Desarrollo Seguro`**
 
-Soy un apasionado de la ingeniería y la seguridad informática. Mi mayor fortaleza reside en diseñar y construir sistemas eficientes y escalables, entendiendo su lógica interna para protegerlos ante cualquier amenaza. Combino la rigurosidad académica con tácticas de hacking ético para garantizar soluciones robustas.
+Soy un apasionado de la ingeniería y la seguridad informática. Mi mayor fortaleza reside en diseñar y construir sistemas eficientes y escalables. Combino la rigurosidad académica con tácticas de hacking ético para garantizar soluciones robustas.
 
 - ⚙️ **Fortaleza:** Arquitectura de Sistemas y Lógica de Programación.
 - 🎯 **Intereses:** Colaborar en proyectos integrales de desarrollo y aplicar auditorías de seguridad (Pentesting).
@@ -63,12 +63,12 @@ Soy un apasionado de la ingeniería y la seguridad informática. Mi mayor fortal
 
 ### 📊 System Analytics & Stats
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=AndersonC-Engineer&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0D1117" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonC-Engineer&layout=compact&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AndersonC-Engineer&show_icons=true&theme=neon&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonC-Engineer&theme=neon&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonC-Engineer&theme=dark&fire=00FF41&sideNums=00FF41&sideLabels=ffffff&dates=ffffff&bg_color=0D1117&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonC-Engineer&theme=neon&fire=00FF41&sideNums=00FF41&sideLabels=ffffff&dates=ffffff&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
